@@ -1,0 +1,5 @@
+model,metric,value
+xgboost,pr_auc,0.36540067141554955
+xgboost,auc,0.7123698937951793
+lightgbm,pr_auc,0.4145088356393904
+lightgbm,auc,0.761542619718907

@@ -16,6 +16,8 @@ in
         python-pkgs.jupyter
         python-pkgs.scikit-learn
         python-pkgs.shap
+        python-pkgs.optuna
+        python-pkgs.pip
       ]))
       pkgs.pandoc
       pkgs.texliveFull
